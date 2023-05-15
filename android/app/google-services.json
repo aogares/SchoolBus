@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5430780764",
+    "project_id": "ryflex-2d29a",
+    "storage_bucket": "ryflex-2d29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5430780764:android:1032cfb06f98cc6b291799",
+        "android_client_info": {
+          "package_name": "com.fussiontech.ryflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5430780764-5codj8r3v79vpq28e441vtnmmj0qik8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfh9E3QgASVtY6YyY6BkUtwJmrt6wg6GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5430780764-5codj8r3v79vpq28e441vtnmmj0qik8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
